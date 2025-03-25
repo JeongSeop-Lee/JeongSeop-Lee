@@ -15,9 +15,10 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=JeongSeop-Lee&custom_title=JeongSeop-Lee's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSeop-Lee&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <div style="text-align: left; display: flex; gap: 10px;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=JeongSeop-Lee&show_icons=true&theme=light&bg_color=ffffff" width="400px" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSeop-Lee&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000" width="400px" height="200px"/>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contact </h2> 
